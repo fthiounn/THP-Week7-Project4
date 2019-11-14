@@ -3,6 +3,7 @@
 
 ### Notes and Use
 
+> from index.html you can navigate to every script's page
 
 ## Projet : JavaScript - Exercices basiques
   
